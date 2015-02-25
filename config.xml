@@ -54,9 +54,9 @@
   <param name="android-package" value="nl.xservices.plugins.SocialSharing" />
 </feature>-->
 
-<feature name="PushPlugin">
+<!--<feature name="PushPlugin">
   <param name="ios-package" value="PushPlugin" />
-</feature>
+</feature>-->
 
 
 
