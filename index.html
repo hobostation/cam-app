@@ -144,8 +144,11 @@
     </div><!-- /page -->
 
 
-        <script>
-           document.addEventListener("deviceready", onDeviceReady, false);
+      <script>
+            document.addEventListener("deviceready", onDeviceReady, false);
+            function onDeviceReady() {
+            console.log("window.open works well");
+            }
         </script>
         
     	<script type="text/javascript" src="js/jquery-1.9.1.js"></script>
