@@ -3241,7 +3241,7 @@ html .ui-popup .ui-field-contain > label + .ui-flipswitch {
 }
 .ui-panel-inner {
 	padding: 1em;
-	font-family: calibri !important;
+	/*font-family: calibri !important;*/
 }
 /* Container, page and wrapper */
 .ui-panel-page-container {
