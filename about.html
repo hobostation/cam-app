@@ -188,7 +188,12 @@
     </div><!-- /page -->
 
 
-     
+      <script>
+            document.addEventListener("deviceready", onDeviceReady, false);
+            function onDeviceReady() {
+            console.log("window.open works well");
+            }
+        </script>
 
        
          <script type="text/javascript" src="cordova.js"></script>
